@@ -77,3 +77,4 @@ public class OrderTest extends BaseTest {
         assertTrue(orderPage.isOrderCreated());
     }
 }
+// Sprint 3
